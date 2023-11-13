@@ -7,4 +7,3 @@ As a data scientist, you should perform exploratory data analysis and perform cl
 
 Data Description:
 This dataset contains data from Spotify's API about all albums for the Rolling Stones listed on Spotify. It is important to note that all songs have unique IDs.
-![image](https://github.com/AshYRaw/Creating-cohorts-of-Spotify-Songs/assets/60941854/61bf253c-1f6a-4bd3-a16c-353c94eabc5e)
